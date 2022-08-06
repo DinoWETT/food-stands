@@ -14,7 +14,8 @@ Eat when hungry yo!
 
 ```pawn
 CreateFoodStand(playerid, fsid);
-RemoveFoodStand(playerid, fsid)
+RemoveFoodStand(playerid, fsid);
+SelectFood(playerid);
 FeedPlayer(playerid, food);
 IsPlayerNearFoodStand(playerid);
 ```
