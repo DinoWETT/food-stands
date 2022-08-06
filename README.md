@@ -1,5 +1,7 @@
 # food-stands
 
+Eat when hungry yo!
+
 ## Instalation
 
 ```pawn
