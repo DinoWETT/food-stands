@@ -2,7 +2,7 @@
 
 Eat when hungry yo!
 
-## Instalation
+## Installation
 
 ```pawn
 
