@@ -198,7 +198,7 @@ hook OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]){
                     FeedPlayer(playerid, 2);
                 }
                 case 2:{
-                    FeedPlayer(playerid, 1);
+                    FeedPlayer(playerid, 3);
                 }
             }
         }
