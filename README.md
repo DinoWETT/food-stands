@@ -1,6 +1,6 @@
 # food-stands
 
-Eat when hungry yo!
+New Release - 1.0.1
 
 ## Installation
 
@@ -13,11 +13,10 @@ Eat when hungry yo!
 ## Usage 
 
 ```pawn
-CreateFoodStand(playerid, fsid);
-RemoveFoodStand(playerid, fsid);
-SelectFood(playerid);
-FeedPlayer(playerid, food);
+CreateFoodStand(Float:cord_x, Float:cord_y, Float:cord_z);
+ResetFoodStandInfo(standid);
 IsPlayerNearFoodStand(playerid);
+
 ```
 
 Include it, use it then compile it :P
