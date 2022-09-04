@@ -98,7 +98,7 @@ stock CreateFoodStand(Float:cord_x, Float:cord_y, Float:cord_z, type, virtual_wo
 
     CallRemoteFunction("OnFoodStandCreated", "d", standid);
 
-    return 1;
+    return standid;
 }
 
 
